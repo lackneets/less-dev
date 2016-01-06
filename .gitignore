@@ -1,0 +1,7 @@
+images/*
+styles/*
+
+node_modules
+
+!images/index.html
+!styles/index.html
