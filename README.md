@@ -24,7 +24,7 @@ The default port will be `35729` if not specified
 Include livereload helper in HTML
 
 ```html
-<script src="http://works.lackneets.tw:35729/livereload.js"></script>
+<script src="http://YOURHOST:35729/livereload.js"></script>
 ```
 
 Write some LESS stylesheets, save as `styles/layout.less` for example. Then include css file as same name `leyout.css`. 
